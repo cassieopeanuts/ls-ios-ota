@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>ru.legkosohranit.ios</string>
+				<string>ru.legkosohranit.app</string>
 				<key>bundle-version</key>
 				<string>1.1.0</string>
 				<key>kind</key>
